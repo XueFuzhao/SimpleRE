@@ -1,5 +1,9 @@
 # SimpleRE
 
+An Embarrassingly Simple Model for Dialogue Relation Extraction
+
+https://arxiv.org/abs/2012.13873
+
 The code is divided into two parts, DialogRE and TACRED, by datasets.
 
 # Requirements
